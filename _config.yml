@@ -1,0 +1,28 @@
+name: The Safari Group
+favicon: null
+layout_spectrum: 0.9006758178584278
+typography_spectrum: 0.07729164278134704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7101623548660427
+  lightness: 0.1934705968014896
+  saturation: 0.3907216831576079
+  rhythmicContrast: 0.6726708132773638
+purpose: []
