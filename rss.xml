@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Safari Group]]></title>
         <description><![CDATA[The Safari Group]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-safari-group/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 13:45:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 13:48:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-safari-group/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefined482c7458-9ec3-4874-b7a1-c646deb32c59/index.html</link>
+            <description><![CDATA[<p>The Safari group is like a giant tree of opportunity, with creativity and inspiration pulsating through each of its branches. We are a community offering a collaborative and equitable space to learn, grow, share experiences and express yourself.</p>]]></description>
+            <link>https://thegrid.ai/the-safari-group/482c7458-9ec3-4874-b7a1-c646deb32c59/index.html</link>
             <guid isPermaLink="false">482c7458-9ec3-4874-b7a1-c646deb32c59</guid>
-            <pubDate>Sun, 15 May 2016 13:45:21 GMT</pubDate>
+            <pubDate>Sun, 15 May 2016 13:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
